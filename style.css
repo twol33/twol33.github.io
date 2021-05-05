@@ -10,7 +10,7 @@ body{
 .header h2{
   font-size: 80%;
   text-align: right;
-  margin-top: -7.5%
+  margin-top: -6.5%
 }
 .education{
   font-size: 14px;
@@ -25,7 +25,7 @@ body{
 
 .education p{
   float: right;
-  margin-top: -4%;
+  margin-top: -4.3%;
   font-weight: bold;
 }
 
@@ -37,7 +37,7 @@ body{
 
 .experience p{
   float: right;
-  margin-top: -6.25%;
+  margin-top: -5%;
   font-weight: bold;
   font-size: 90%
 }
