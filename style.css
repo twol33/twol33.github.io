@@ -1,6 +1,6 @@
 body{
   margin: 30%;
-  background-image: url("https://t4.ftcdn.net/jpg/04/08/19/89/360_F_408198989_aEtyqdo94lkdefK21Fz1uvArsceUmiTC.jpg")
+  background-image: url("https://t4.ftcdn.net/jpg/04/08/19/89/360_F_408198989_aEtyqdo94lkdefK21Fz1uvArsceUmiTC.jpg");
 }
 
 .header{
@@ -46,6 +46,9 @@ body{
   font-size: 90%
 }
 
+.experience h4{
+  margin-top: -4%
+}
 
 .experience ul{
   margin-top: -1%;
