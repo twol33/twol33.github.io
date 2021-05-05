@@ -25,6 +25,7 @@ body{
 .education h2{
   text-transform: uppercase;
   text-align: center;
+  font-size: 21px
 }
 
 .education p{
@@ -43,14 +44,17 @@ body{
   float: right;
   margin-top: -5%;
   font-weight: bold;
-  font-size: 90%
+  font-size: 90%;
 }
 
-.experience h4{
+.exp-experience{
+  border-bottom: 1px solid;
+}
+.exp-experience h4{
   margin-top: -4%
 }
 
-.experience ul{
+.exp-experience ul{
   margin-top: -1%;
 }
 
@@ -76,4 +80,30 @@ h5{
   text-align: right;
   margin-top: -5%;
   font-size: 90%;
+}
+
+.skills {
+  border-bottom: 1px solid;
+  text-align: center;
+}
+
+.skills h4{
+  text-transform: uppercase;
+  font-size: 110%;
+}
+
+.skills h7{
+  font-weight: bold;
+}
+.strengths{
+  text-align: center;
+  margin-top: -2%
+}
+
+.strengths h4{
+  text-transform: uppercase;
+}
+
+.strengths table{
+  margin-top: -2%
 }
