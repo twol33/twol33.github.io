@@ -7,6 +7,10 @@ body{
   border-bottom: 1px solid;
 }
 
+.header p{
+  text-align: center;
+}
+
 .header h2{
   font-size: 80%;
   text-align: right;
